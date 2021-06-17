@@ -1,9 +1,9 @@
 # Instagram!
 
-Built with Rails :) <br>
+Built with Rails :) <br> Coming soon! <br>
 [User Stories](PLANS.md)
 
-Try it out: 
+<!-- Try it out: 
 
 Things you may want to cover:
 
@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... -->
